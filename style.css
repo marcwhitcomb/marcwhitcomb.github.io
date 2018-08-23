@@ -2,7 +2,7 @@ body,html {
   text-transform: uppercase;
   color: #ffffff;
   background-image: url(https://images.unsplash.com/photo-1534874455018-e108cd15ec65?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3531b2547d9da4637296271ed5e85c2e&auto=format&fit=crop&w=750&q=80);
-  background-size: 100% 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
   width: 100%
