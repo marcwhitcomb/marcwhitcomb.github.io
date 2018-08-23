@@ -1,0 +1,42 @@
+body, html {
+	text-transform: uppercase;
+	color: white;
+	background-image: url(https://images.unsplash.com/photo-1532529867795-3c83442c1e5c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=057bcb9879b39b35a6342bec6c24763a&auto=format&fit=crop&w=668&q=80);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.jumbotron {
+	background-color: transparent;
+}
+
+.display-4 {
+	margin-top: 200px;
+}
+
+.col-sm {
+	text-align: center;
+}
+
+h1 {
+	font-size: 2rem !important;
+}
+
+hr {
+	border: 1px solid red;
+	width: 50px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.btn {
+	border-radius: 50px;
+}
